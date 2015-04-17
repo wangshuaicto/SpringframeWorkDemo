@@ -1,0 +1,11 @@
+com\test\hello\aoptest\AopTest.class
+com\test\hello\MessageService.class
+com\test\hello\MessagePrinter.class
+com\test\hello\AppPropertites.class
+com\test\hello\DataSourceTest.class
+com\test\hello\Application.class
+com\test\hello\Application$1.class
+com\test\hello\controller\MyController.class
+com\test\hello\MethodRequired.class
+com\test\hello\Application$2.class
+com\test\hello\AppDefaultPropertites.class
